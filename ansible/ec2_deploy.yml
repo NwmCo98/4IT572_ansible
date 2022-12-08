@@ -9,7 +9,7 @@
         image: ami-0b0dcb5067f052a63
         region: us-east-1
         key_name: devops
-        vpc_subner_id: subnet-0497e641483546004 
+        vpc_subnet_id: subnet-0497e641483546004 
         count: 1
         assign_public_ip: yes
         wait: yes
